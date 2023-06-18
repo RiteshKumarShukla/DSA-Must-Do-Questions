@@ -1,6 +1,7 @@
 # Interview Preparation Questions - Data Structures and Algorithms
 
-This repository contains a collection of interview preparation questions for various topics in Data Structures and Algorithms. These questions are commonly asked in technical interviews and are designed to help you improve your problem-solving skills.
+## DSA Decoded: 
+*Unleash your full potential in Data Structures and Algorithms with this meticulously crafted GitHub repository. Explore a diverse range of important and mind-bending questions to stretch your problem-solving abilities and solidify your understanding of core algorithms. Level up your coding game and stand out among your peers.*
 
 ## Table of Contents
 
