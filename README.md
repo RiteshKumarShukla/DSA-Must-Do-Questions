@@ -88,7 +88,6 @@ This repository contains a collection of interview preparation questions for var
 | 19. | Implement a function to check if a key-value store contains a specific value.                       |
 | 20. | Write a function to remove the key-value pair with the smallest key from a key-value store.         |
 
-Feel free to explore the solutions to these questions in the respective code files. Happy learning!
 
 ## Linked List
 
