@@ -164,3 +164,28 @@
 | 18. | Design a stack that supports getMin, getMax, and getAverage operations in O(1) time.         |
 | 19. | Implement a stack that supports push, pop, and findMiddle operations in O(1) time and space. |
 | 20. | Check if a string is balanced by checking its parentheses using a stack.                     |
+
+
+# Time Complexity Reference Table
+
+A reference table for different ranges of `n` values and their corresponding time complexities. 🚀
+
+| n Range         | Time Complexity   |
+|-----------------|-------------------|
+| n ≤ 12          | ⏱️ O(1)            |
+| n ≤ 25          | ⏱️ O(log n)        |
+| n ≤ 100         | ⏱️ O(√n)           |
+| n ≤ 500         | ⏱️ O(n)            |
+| n ≤ 10^4        | ⏱️ O(n log n)      |
+| n ≤ 10^6        | ⏱️ O(n²)           |
+| n ≤ 10^8        | ⏱️ O(n²) or O(n³) or O(n log n)  |
+| n ≤ 10^9        | ⏱️ O(n log n) or O(n³)  |
+| n ≤ 10^12       | ⏱️ O(n log n) or O(n²)  |
+| n ≤ 10^18       | ⏱️ O(n log n) or O(n)    |
+| n ≤ 10^100      | ⏱️ O(n log n)        |
+| n > 10^100      | ⏱️ O(2^n) or O(n!)    |
+
+⚠️ Please note that this table provides a general overview and time complexities may vary depending on the problem and implementation details. Always consider the specific constraints and optimize your algorithms accordingly to avoid exceeding time limits.
+
+Feel free to use this reference table when analyzing the time complexity of your algorithms! 😊
+
