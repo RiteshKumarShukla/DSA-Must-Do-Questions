@@ -166,6 +166,9 @@
 | 20. | Check if a string is balanced by checking its parentheses using a stack.                     |
 
 
+
+
+
 # Time Complexity Reference Table
 
 A reference table for different ranges of `n` values and their corresponding time complexities. 🚀
