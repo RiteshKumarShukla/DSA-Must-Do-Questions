@@ -61,3 +61,7 @@ console.log(stack.getMin()); // Output: 1
 console.log(stack.pop()); // Output: 1
 console.log(stack.getMin()); // Output: 2
 console.log(stack.top()); // Output: 7
+
+
+
+
