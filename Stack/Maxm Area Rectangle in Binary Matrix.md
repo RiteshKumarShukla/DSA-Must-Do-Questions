@@ -23,7 +23,6 @@ Given a 2D binary matrix of 0s and 1s, find the area of the largest rectangle co
 
 The largest rectangle containing only 1s is formed by the submatrix of rows 2 and 3 and columns 1 to 4. The area is 2 x 4 = 8.
 
-![binary matrix](https://i.imgur.com/5ZJ9Q5O.png)
 
 ## Solution
 
