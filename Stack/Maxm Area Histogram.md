@@ -18,7 +18,6 @@ Given an array of non-negative integers that represent the heights of bars in a 
 
 The maximum area is obtained by the rectangle formed by the bars with heights 4 and 5 and width 3. The area is 4 x 3 = 12.
 
-![histogram](https://i.imgur.com/8Z9XyfO.png)
 
 ## Solution
 
